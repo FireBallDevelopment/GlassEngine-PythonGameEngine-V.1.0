@@ -1,2 +1,5 @@
 # Glass.PY-Python-OpenSource-Library
-My First Python library, that simplify's more the python Languaje than it is... really, you don't have any reason to say no to learn python with this library!
+<p align="center">
+  <img src="https://pngimg.com/uploads/water_glass/water_glass_PNG15234.png" alt="A Glass"/img>
+</p>
+
