@@ -15,7 +15,7 @@ glass.hello()
 ```
 
 Ok, this was something stupid, but, if you don't want to write:
-```
+```python
 
 print("Hello World!")
 
