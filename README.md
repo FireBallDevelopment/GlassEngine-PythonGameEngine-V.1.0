@@ -10,7 +10,7 @@ But one can do a simple hello world with only writing:
 ```python
 import glass.py
 
-glass.hello()
+glass.text("HelloWorld!")
 
 ```
 
