@@ -8,7 +8,7 @@
 
 This is Glass.PY a Basic Game Engine developed with **Python** were you can create basic games in 2D and soon in 3D!, but fist is first, the engine is not so primitive so don't spect any beast, its olnly a basic 2D Game Engine with a simple python code editor, and some extrange things but without much more, so if you want to create your first's games in weeks, use GLASS ENGINE!
 
-## DOWLOAD GLASS.PY
+<center><h2>DOWNLOADS</h2></center>
 
  <table style="width:100%" align="center">
   <tr>
@@ -19,7 +19,7 @@ This is Glass.PY a Basic Game Engine developed with **Python** were you can crea
   <tr>
     <td>V.0.1</td>
     <td>2021-01-25</td>
-    <td><a href="" download>Download it!</a></td>
+    <td><a href="#notavaliable" download>Download it!</a></td>
   </tr>
 </table> 
 
